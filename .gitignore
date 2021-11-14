@@ -1,0 +1,3 @@
+# Project exclude paths
+/RegLog/dist/
+/RegLog/node_modules/
